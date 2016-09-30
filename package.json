@@ -9,6 +9,8 @@
   "author": "Tiffany DeVine",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "oauth": "^0.9.14"
   }
 }
